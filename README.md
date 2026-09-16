@@ -60,7 +60,6 @@
 <summary>Tools</summary>
 <div>
   <p style="display: inline-block;" align="center">
-    <summary>Tools</summary>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>

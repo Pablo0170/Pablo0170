@@ -1,18 +1,18 @@
 <!-- ========================================== -->
 <!-- CONTADOR DE VISITAS Y JUEGO DE LA SERPIENTE -->
 <!-- ========================================== -->
-<p align = "center">
-    <!-- Reemplaza "TU_USUARIO_GITHUB" en la URL por tu nombre de usuario de GitHub para el contador -->
-	<img src = "https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&style=plastic&color=blueviolet" alt = "Profile Views"/>
+<p align="center">
+	<!-- Contador de visitas configurado con tu usuario de GitHub -->
+	<img src="https://komarev.com/ghpvc/?username=Pablo0170&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
-<p align = "center">
-    <!-- Animación de la serpiente basada en tus contribuciones de GitHub -->
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+	<!-- Animación de contribuciones en GitHub -->
+	<img src="https://github.com/Pablo0170/Pablo0170/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
 
 <div align="center">
 
-<!-- Imagen superior decorativa (Pokébola) -->
+<!-- Pokeball Superior -->
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
 <details>
@@ -20,21 +20,19 @@
 
 <br>
 <div>
-  <!-- Foto de Perfil / Avatar -->
-  <div align=center>
-      <!-- Reemplaza el src con la URL de tu imagen de perfil o avatar -->
-      <img height="200" alt="Foto de perfil" src="URL_DE_TU_FOTO_DE_PERFIL">
+  <!-- Foto de Perfil de GitHub -->
+  <div align="center">
+      <img height="200" alt="Avatar de Pablo" src="https://github.com/Pablo0170.png">
   </div>
   
-  <!-- Texto animado (Typing SVG) -->
-  <div align=center>
-      <!-- Modifica el parámetro lines= agregando tu texto separado por punto y coma (usando %20 o + para espacios) -->
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hola%2C+soy+TU_NOMBRE;Bienvenido+a+mi+perfil;Desarrollador+Full+Stack" alt="Typing SVG" /></a>
+  <!-- Texto animado personalizado -->
+  <div align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Pablo;SysAdmin+%26+Cybersecurity+Enthusiast;CTF+Player+%26+Scripting;Bienvenido+a+mi+perfil" alt="Typing SVG" /></a>
   </div>
 </div>
 
 <!-- ========================================== -->
-<!-- SECCIÓN SOBRE MÍ (Código de ejemplo JS) -->
+<!-- SECCIÓN SOBRE MÍ -->
 <!-- ========================================== -->
 <details>
 <summary>Sobre mí</summary>
@@ -43,19 +41,53 @@
 
 ```js
 /**
- * Representación sobre mí.
+ * Perfil Profesional y Técnico.
  *
  * @constructor
- * @param {string} location - Tu Ciudad, País.
- * @param {string} languages - Idiomas que hablas (ej. Español, Inglés).
- * @param {string} jobTitle - Tu Puesto / Título profesional.
- * @param {string} specialization - Tu especialidad (ej. Frontend, Backend, Móvil).
- * @param {string} interests - Tus intereses de tecnología (ej. IA, Desarrollo Web).
- * @param {string} hobbies - Tus aficiones (ej. Leer, Videojuegos, Música).
- * @param {string} education - Tu Educación / Universidad / Cursos.
- * @param {string} approachable - Sí, abierto a colaborar en proyectos.
- * @param {string} strength - Tu mayor fortaleza.
- * @param {string} weakness - Tu debilidad o área a mejorar.
+ * @param {string} location - España.
+ * @param {string} languages - Español.
+ * @param {string} role - Administrador de Sistemas Informáticos en Red (ASIR).
+ * @param {string} specialization - Ciberseguridad, Scripting Bash/Python & Virtualización.
+ * @param {string} interests - Pentesting, CTFs, Automatización & Linux.
+ * @param {string} approachable - Sí, abierto a colaborar en proyectos técnicos.
  *
- * @returns {Object} Tu Nombre.
+ * @returns {Object} Pablo Gómez Madrid.
  */
+ <!-- Lenguajes & Scripting -->
+<kbd>
+  <kbd>Scripting & Lenguajes</kbd>
+  <br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" title="Bash"/> 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="JavaScript"/> 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" title="TypeScript"/> 
+</kbd>
+
+<!-- Sistemas, Virtualización & Redes -->
+<kbd>
+  <kbd>Sistemas & Infraestructura</kbd>
+  <br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" title="Linux"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" title="Docker"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" title="Windows Server / Active Directory"/>
+</kbd>
+
+<!-- Web & Bases de Datos -->
+<kbd>
+  <kbd>Desarrollo Web & BD</kbd>
+  <br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML5"/> 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS3"/>  
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" title="MySQL / MariaDB"/>
+</kbd>
+<br><br>
+
+<!-- Herramientas de Trabajo -->
+<kbd>
+  <kbd>Entorno & Herramientas</kbd>
+  <br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="Git" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VS Code"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Vim"/>
+</kbd>

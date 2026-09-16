@@ -60,21 +60,25 @@
 <summary>Tools</summary>
 <div>
   <p style="display: inline-block;" align="center">
+    <summary>Tools</summary>
+<div>
+  <p style="display: inline-block;" align="center">
     <kbd>
       <kbd>Programming Languages</kbd>
-      <br>
-      <br>
-      <img width="30px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://iconape.com/wp-content/files/hc/353261/png/353261.png)" alt="js" title="php"/> 
+      <br><br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
     </kbd>
-      <kbd>
+    <kbd>
       <kbd>Database</kbd>
-      <br>
-      <br>
-      <img width="30px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkGPAmssEI2878Ud0mWScmXYPyNIcFPWvQ4g0kPmPN3oZUk_WgGoqa6mq&s=10)" alt="mysql" title="MySQL"/>
+      <br><br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="Postgres SQL"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
-      </kbd>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" title="Mongo DB"/>
+    </kbd>
+    <br>
+  </p>
+</div>
     <br>
     <br>
     <kbd>

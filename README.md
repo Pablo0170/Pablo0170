@@ -110,6 +110,7 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
+	 </kbd>
   </p>
 </div>
 </details>

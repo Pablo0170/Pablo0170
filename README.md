@@ -35,20 +35,18 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
+ * @param {string} location - Málaga, Spain.
+ * @param {string} languages - Spanish, English.
+ * @param {string} jobTitle - Sysadmin & Cybersecurity Student.
+ * @param {string} specialization - Linux Administration, Network Security, Active Directory & Bash Automation.
+ * @param {string} interests - Cybersecurity (CTFs), Pentesting, System Monitoring & AI Integration.
+ * @param {string} hobbies - CTF Challenges, Gaming, Sports.
+ * @param {string} education - Senior Technician in Network Computer Systems Administration (ASIR).
+ * @param {string} approachable - Yes, open to collaborate on open-source, CTF or tech projects.
+ * @param {string} strength - Analytical mindset, problem-solving & persistence.
  *
- * @throws {Punch} To any and all bugs.
  *
- * @returns {Object} Kartik.
+ * @returns {Object} Pablo.
  */
 ```
 

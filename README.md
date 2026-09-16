@@ -132,6 +132,39 @@
 </details>
 
 
+### 🥷 Cybersecurity Platforms & CTFs
+
+<div align="center">
+  <!-- TryHackMe Badge -->
+  <a href="https://tryhackme.com/p/TU_USUARIO">
+    <img src="https://tryhackme-badges.vercel.app/api/thm/badge/TU_USUARIO" alt="TryHackMe" />
+  </a>
+  <br><br>
+  <!-- Badges estáticos/enlaces -->
+  <a href="https://app.hackthebox.com/profile/TU_ID">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB" />
+  </a>
+  <a href="https://dockerlabs.es">
+    <img src="https://img.shields.io/badge/DockerLabs-Player-1D63ED?style=for-the-badge&logo=docker&logoColor=white" alt="DockerLabs" />
+  </a>
+</div>### 🥷 Cybersecurity Platforms & CTFs
+
+<div align="center">
+  <!-- TryHackMe Badge -->
+  <a href="https://tryhackme.com/p/TU_USUARIO">
+    <img src="https://tryhackme-badges.vercel.app/api/thm/badge/TU_USUARIO" alt="TryHackMe" />
+  </a>
+  <br><br>
+  <!-- Badges estáticos/enlaces -->
+  <a href="https://app.hackthebox.com/profile/TU_ID">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB" />
+  </a>
+  <a href="https://dockerlabs.es">
+    <img src="https://img.shields.io/badge/DockerLabs-Player-1D63ED?style=for-the-badge&logo=docker&logoColor=white" alt="DockerLabs" />
+  </a>
+</div>
+
+
 <details>
 <summary>RR.SS.</summary>
 <table style="border: none">

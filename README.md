@@ -85,21 +85,21 @@
       <kbd>Automation, Data Science & AI</kbd>
       <br>
       <br>
-      <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
+      <img width="30" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
     </kbd>
     <kbd>
       <kbd>Operating System & Networking</kbd>
       <br>
       <br>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
-		<img width="30px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg](https://www.pngfind.com/pngs/m/683-6836144_cisco-partner-logo-cisco-partner-logo-vector-hd.png)" alt="cisco" title="Cisco Packet Tracer"/>
+		<img width="30" src="https://www.vectorlogo.zone/logos/cisco/cisco-official.svg" alt="cisco" title="Cisco Packet Tracer"/>
 	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
 	    <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" title="Docker"/>
-      <img width="30px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" title="Github Actions"/>
+      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git" />
+      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" title="Docker"/>
+      <img width="30" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" title="Github Actions"/>
     </kbd>
     <kbd>
       <kbd>Terminal Scripts</kbd>

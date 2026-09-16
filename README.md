@@ -132,37 +132,27 @@
 </details>
 
 
-### 🥷 Cybersecurity Platforms & CTFs
+<details>
+  <summary>Cybersecurity & CTF Stats</summary>
+  <br>
+  <p align="center">
+    <!-- TryHackMe Badge -->
+    <a href="https://tryhackme.com/p/pablogomezmadri">
+      <img height="180em" src="https://tryhackme-badges.vercel.app/api/thm/badge/pablogomezmadri" alt="TryHackMe Stats"/>
+    </a>
+    <!-- Hack The Box Badge -->
+    <a href="https://profile.hackthebox.com/profile/019f461a-9951-7369-9788-45511c9817d2?utm_medium=copy_url" target="_blank">
+      <img height="40em" src="https://img.shields.io/badge/Hack%20The%20Box-Pablo6M-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB Profile"/>
+    </a>
+  </p>
 
-<div align="center">
-  <!-- TryHackMe Badge -->
-  <a href="https://tryhackme.com/p/TU_USUARIO">
-    <img src="https://tryhackme-badges.vercel.app/api/thm/badge/TU_USUARIO" alt="TryHackMe" />
-  </a>
-  <br><br>
-  <!-- Badges estáticos/enlaces -->
-  <a href="https://app.hackthebox.com/profile/TU_ID">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB" />
-  </a>
-  <a href="https://dockerlabs.es">
-    <img src="https://img.shields.io/badge/DockerLabs-Player-1D63ED?style=for-the-badge&logo=docker&logoColor=white" alt="DockerLabs" />
-  </a>
-</div>### 🥷 Cybersecurity Platforms & CTFs
-
-<div align="center">
-  <!-- TryHackMe Badge -->
-  <a href="https://tryhackme.com/p/TU_USUARIO">
-    <img src="https://tryhackme-badges.vercel.app/api/thm/badge/TU_USUARIO" alt="TryHackMe" />
-  </a>
-  <br><br>
-  <!-- Badges estáticos/enlaces -->
-  <a href="https://app.hackthebox.com/profile/TU_ID">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB" />
-  </a>
-  <a href="https://dockerlabs.es">
-    <img src="https://img.shields.io/badge/DockerLabs-Player-1D63ED?style=for-the-badge&logo=docker&logoColor=white" alt="DockerLabs" />
-  </a>
-</div>
+  <p align="center">
+    <!-- DockerLabs Badge (Shields.io) -->
+    <a href="https://dockerlabs.es">
+      <img height="40em" src="https://img.shields.io/badge/DockerLabs-CTF%20Player-1D63ED?style=for-the-badge&logo=docker&logoColor=white" alt="DockerLabs Badge"/>
+    </a>
+  </p>
+</details>
 
 
 <details>

@@ -15,7 +15,7 @@
   <div align=center>
       <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
   </div>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I+am+Pablo+!!;Welcome+to+my+GitHub+Profile;Advanced+Technician+in+Network+Computer+Systems+Administration;Cybersecurity+Learner+%2F+Aspiring+Cybersecurity+Specialist" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I+am+Pablo!!;Welcome+to+my+GitHub+Profile;Network+%26+Systems+Admin;Cybersecurity+Learner+" alt="Typing SVG" /></a>
 </div>
 
 <br><br>

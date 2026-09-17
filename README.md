@@ -127,8 +127,6 @@
 <br><br>
 
 <h2>Cybersecurity CTF</h2>
-
-  <br>
   <br>
   <p align="center">
     <!-- TryHackMe Badge -->

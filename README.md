@@ -8,8 +8,7 @@
 <div align="center">
 
 
-<details>
-<summary>Open profile</summary>
+Profile
 
 <br>
 <div>
@@ -21,8 +20,9 @@
   </div>
 </div>
 
-<details>
-<summary>About me</summary>
+<br><br>
+
+About me
 
 <div align="left">
 
@@ -38,20 +38,18 @@
  * @param {string} interests - Cybersecurity (CTFs), Pentesting, System Monitoring & AI Integration.
  * @param {string} hobbies - CTF Challenges, Gaming, Sports.
  * @param {string} education - Senior Technician in Network Computer Systems Administration (ASIR).
- * @param {string} approachable - Yes, open to collaborate on open-source, CTF or tech projects.
+ * @param {string} approachable - Yes, open to collaborate on CTF or tech projects.
  * @param {string} strength - Analytical mindset, problem-solving & persistence.
  *
  *
  * @returns {Object} Pablo.
  */
 ```
-
 </div>
 
-</details>
+<br><br>
 
-<details>
-<summary>Tools</summary>
+Tools
 <div>
   <p style="display: inline-block;" align="center">
 <div>
@@ -107,10 +105,10 @@
 	 </kbd>
   </p>
 </div>
-</details>
 
-<details>
-  <summary>GitHub Stats</summary>
+<br><br>
+
+GitHub Stats
   <br>
 <p align="center">
   <a href="https://github.com/Adityakanoi2001">
@@ -125,11 +123,9 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
 
-</details>
+<br><br>
 
-
-<details>
-  <summary>Cybersecurity CTF</summary>
+Cybersecurity CTF
   <br>
   <p align="center">
     <!-- TryHackMe Badge -->
@@ -142,22 +138,18 @@
       <img height="40em" src="https://img.shields.io/badge/Hack%20The%20Box-Pablo6M-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB Profile"/>
     </a>
   </p>
-</details> 
+
+<br><br>
 
 
 
-
-<details>
-<summary>RR.SS.</summary>
+RR.SS.
 <!-- CONTACTO -->
 <p align="center">
 <a href="https://www.linkedin.com/in/pablo-gomez-madrid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pablo Gómez Madrid" height="30" width="40" /></a>
 <a href="https://discord.com/users/pgmd12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@-PGM-" target="blank"><img align="center" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/960px-YouTube_full-color_icon_%282017%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="@PGM" height="30" width="40" /></a>
 </p>
-</details>
-
-</details>
 
 </div>
 

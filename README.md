@@ -138,11 +138,11 @@
   <p align="center">
     <!-- TryHackMe Badge -->
     <a href="https://tryhackme.com/p/pablogomezmadri">
-      <img height="50em" src="https://tryhackme.com/img/logo/THMlogo-gray_scale.png" alt="TryHackMe Profile"/>
+      <img height="50em" src="https://tryhackme.com/img/logo/THMlogo-gray_scale.png" alt="TryHackMe Profile" style="margin-right: 15"/>
     </a>
     <!-- Hack The Box Badge -->
     <a href="https://profile.hackthebox.com/profile/019f461a-9951-7369-9788-45511c9817d2?utm_medium=copy_url" target="_blank">
-      <img height="40em" src="https://img.shields.io/badge/Hack%20The%20Box-Pablo6M-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB Profile"/>
+      <img height="40em" src="https://img.shields.io/badge/Hack%20The%20Box-Pablo6M-111927?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=9FEF00" alt="HTB Profile"/>
     </a>
   </p>
 </details>

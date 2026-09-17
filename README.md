@@ -8,7 +8,7 @@
 <div align="center">
 
 
-Profile
+<h2>Profile</h2>
 
 <br>
 <div>
@@ -22,7 +22,7 @@ Profile
 
 <br><br>
 
-About me
+<h2>About me</h2>
 
 <div align="left">
 
@@ -49,7 +49,8 @@ About me
 
 <br><br>
 
-Tools
+<h2>Tools</h2>
+
 <div>
   <p style="display: inline-block;" align="center">
 <div>
@@ -108,7 +109,7 @@ Tools
 
 <br><br>
 
-GitHub Stats
+<h2>GitHub Stats</h2>
   <br>
 <p align="center">
   <a href="https://github.com/Adityakanoi2001">
@@ -125,7 +126,9 @@ GitHub Stats
 
 <br><br>
 
-Cybersecurity CTF
+<h2>Cybersecurity CTF</h2>
+
+  <br>
   <br>
   <p align="center">
     <!-- TryHackMe Badge -->
@@ -141,9 +144,7 @@ Cybersecurity CTF
 
 <br><br>
 
-
-
-RR.SS.
+<h2>RR.SS.</h2>
 <!-- CONTACTO -->
 <p align="center">
 <a href="https://www.linkedin.com/in/pablo-gomez-madrid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pablo Gómez Madrid" height="30" width="40" /></a>

@@ -133,7 +133,7 @@
 
 
 <details>
-  <summary>Cybersecurity & CTF Stats</summary>
+  <summary>Cybersecurity CTF</summary>
   <br>
   <p align="center">
     <!-- TryHackMe Badge -->
@@ -145,21 +145,18 @@
       <img height="40em" src="https://img.shields.io/badge/Hack%20The%20Box-Pablo6M-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB Profile"/>
     </a>
   </p>
-
-  <p align="center">
-    <!-- DockerLabs Badge (Shields.io) -->
-    <a href="https://dockerlabs.es">
-      <img height="40em" src="https://img.shields.io/badge/DockerLabs-CTF%20Player-1D63ED?style=for-the-badge&logo=docker&logoColor=white" alt="DockerLabs Badge"/>
-    </a>
-  </p>
 </details>
 
 
 <details>
 <summary>RR.SS.</summary>
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+<!-- CONTACTO -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/pablo-gomez-madrid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pablo Gómez Madrid" height="30" width="40" /></a>
+<a href="https://discord.gg/pgmd12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@-PGM-" target="blank"><img align="center" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/960px-YouTube_full-color_icon_%282017%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="@PGM" height="30" width="40" /></a>
+</p>
 
 [//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
 

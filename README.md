@@ -138,7 +138,7 @@
   <p align="center">
     <!-- TryHackMe Badge -->
     <a href="https://tryhackme.com/p/pablogomezmadri">
-      <img height="40em" src="https://tryhackme.com/img/logo/THMlogo-gray_scale.png" alt="TryHackMe Profile"/>
+      <img height="180em" src="https://tryhackme.com/img/logo/THMlogo-gray_scale.png" alt="TryHackMe Profile"/>
     </a>
     <!-- Hack The Box Badge -->
     <a href="https://profile.hackthebox.com/profile/019f461a-9951-7369-9788-45511c9817d2?utm_medium=copy_url" target="_blank">
